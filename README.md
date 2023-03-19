@@ -1,4 +1,4 @@
-# AI-Engine ChatGPT-like
+# ChatGPT-like
 
 ## AI Engine Pro
 Create a ChatGPT-like chatbot (or many of them, with different features and behaviors), generate content, images, quickly suggest titles and excerpts, track your OpenAI usage stats, and much more!
